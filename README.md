@@ -18,3 +18,4 @@ POST http://localhost:8080/profiler
 ```
 6. Stop both Profiler and the application
 7. Enjoy the profiler`s result :-)
+8. 22222
